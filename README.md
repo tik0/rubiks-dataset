@@ -67,7 +67,7 @@ sampled by performing viewpoint changes with a Franka Emica Panda robot.
 ### All actions and corresponding action representation
 
 | Action | Viewpoint 1 | Viewpoint 2 | left-state | front-state | right-state |
-| |--- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 |1|left|front |0 |1 |-1|
 |2|left|right |0 |-1|1|
 |3|front|left |1 |0 |-1|
